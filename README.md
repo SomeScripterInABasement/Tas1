@@ -7,4 +7,4 @@
     To Rewind press the number 4 key.
     To forward tas press the number 5 key.
 ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SomeScripterInABasement/Tas/main/README.md",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SomeScripterInABasement/_Tas/main/README.md",true))()
